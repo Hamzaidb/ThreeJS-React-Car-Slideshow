@@ -107,6 +107,6 @@ export const Scene = ({ mainColor, path, ...props }) => {
   );
 };
 
-useGLTF.preload("/models/free_datsun_280z.glb");
-useGLTF.preload("/models/free_bmw_m3_e30.glb");
-useGLTF.preload("/models/free_polestar_1.glb");
+useGLTF.preload("/models/Datsun280z.glb");
+useGLTF.preload("/models/BmwM3.glb");
+useGLTF.preload("/models/Polestar1.glb");

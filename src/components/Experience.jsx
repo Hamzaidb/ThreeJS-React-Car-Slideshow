@@ -23,7 +23,7 @@ const polestarTexture = new TextureLoader().load(PolestarLogo);
 
 export const scenes = [
   {
-    path: "models/free_datsun_280z.glb",
+    path: "models/Datsun280z.glb",
     mainColor: "#FFE6C3",
     name: "Datsun 280z",
     //description:"Better utility than a truck with more performance than a sports car",
@@ -32,7 +32,7 @@ export const scenes = [
     acceleration: 7, 
   },
   {
-    path: "models/free_bmw_m3_e30.glb",
+    path: "models/BmwM3.glb",
     mainColor: "#FFC3C3",
     name: "BMW M3 e30",
     //description: "The car of the future",
@@ -41,7 +41,7 @@ export const scenes = [
     acceleration: 6, 
   },
   {
-    path: "models/free_polestar_1.glb",
+    path: "models/Polestar1.glb",
     mainColor: "#ffdec0",
     name: "Polestar",
     //description: "The Future of Trucking",
