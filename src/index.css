@@ -14,11 +14,3 @@ body {
   margin: 0;
 }
 
-@keyframes fillAnimation {
-  from {
-    width: 0%;
-  }
-  to {
-    width: var(--progress-width, 0%);
-  }
-}

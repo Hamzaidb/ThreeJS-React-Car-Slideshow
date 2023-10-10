@@ -32,7 +32,7 @@ export const Overlay = () => {
       >
         
 
-        <ReactSVG src='src/assets/logos/HI (150 x 150 px).svg' className="w-40 mx-auto mt-8" />
+        <ReactSVG src='src/assets/logos/HI (150 x 150 px).svg' className="mx-auto mt-8" />
 
 
         <div className="absolute top-0 bottom-0 left-0 right-0 flex-1 flex items-center justify-between p-4">
